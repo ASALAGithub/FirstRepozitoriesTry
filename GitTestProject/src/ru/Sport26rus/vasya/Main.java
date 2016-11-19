@@ -3,7 +3,7 @@ package ru.Sport26rus.vasya;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hellow from GitHub");
+		System.out.println("Hellow from GitHub!!!!");
 
 	}
 
